@@ -15,9 +15,7 @@ public class ReviewDemo01 {
 			}
 			k++;
 		}
-		if(isPrime)
-			System.out.println(number + "은 소수다.");
-		else
-			System.out.println(number + "은 소수가 아니다.");
+		
+			System.out.println(number + (isPrime ? "은 소수다." : "은 소수가 아니다"));
 	}
 }
