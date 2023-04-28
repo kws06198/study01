@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+// 나 임진성 이오
 public class ReviewDemo01 {
 	public static void main(String[] args) {
 		
